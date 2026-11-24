@@ -1,0 +1,7 @@
+*.o
+*.obj
+*.exe
+*.pdb
+tests/test_ws2812
+build/
+.vscode/
